@@ -2,6 +2,14 @@
 
 Pytorch Implementation for SIGIR2022 full paper "Contrastive Learning with Hard Negative Entities for Entity Set Expansion".
 
+## To get the results from the project report run:
+
+```bash
+python get_improved_results.py
+```
+
+## Improved Window Search Algorithm is Shown In Line 1016 of Expan.py
+
 ## Prerequisites
 #### python >= 3.7
 #### pytorch >= 1.6.0
@@ -11,14 +19,6 @@ Pytorch Implementation for SIGIR2022 full paper "Contrastive Learning with Hard 
 The download links of datasets used in our experiments are all public available in their original paper mentioned in Appendix B. After downloading the dataset, put them under the folder "./data/"
 
 #### Following instructions use Wiki as defalut dataset
-
-## To get the results from the project report run:
-
-```bash
-python get_improved_results.py
-```
-
-## Improved Window Search Algorithm is Shown In Line 1016 of Expan.py
 
 ## Data Preprocessing
 
