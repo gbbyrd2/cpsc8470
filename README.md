@@ -12,6 +12,14 @@ The download links of datasets used in our experiments are all public available 
 
 #### Following instructions use Wiki as defalut dataset
 
+## To get the results from the project report run:
+
+```bash
+python get_improved_results.py
+```
+
+## Improved Window Search Algorithm is Shown In Line 1016 of Expan.py
+
 ## Data Preprocessing
 
 Run
